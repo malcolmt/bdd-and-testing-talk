@@ -1,0 +1,14 @@
+Except as noted explicitly in the slides (some sample code from the Freshen
+project is used), the copyright holder of all content here is Malcolm
+Tredinnick <malcolm.tredinnick@gmail.com>.
+
+The content is licensed for further use under the Creative Commons
+Attribution-ShareAlike 3.0 Australia license. See
+http://creativecommons.org/licenses/by-sa/3.0/au/deed.en for details and a link
+to the full legal text.
+
+In essence, you may reuse this content for your own purposes, provided you
+give credit to the original author and share the repurposed content under the
+same conditions. For other uses with different rights, please contact the
+original author.
+
